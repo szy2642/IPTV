@@ -1789,90 +1789,36 @@ http://epg.112114.xyz/douyu/6537888
 http://epg.112114.xyz/douyu/7136517
 #EXTINF:-1 group-title="影视综合,#genre#",凤凰电影
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",緯來體育台
-mitv://generationnexxxt.com:19806/1fad13f2ac2948b986d53965fd69e40e
-#EXTINF:-1 group-title="体育+4K频道,#genre#",纬来体育台
-rtmp://119.81.124.89/sat/tv721
 #EXTINF:-1 group-title="体育+4K频道,#genre#",纬来体育
 http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",ELTA体育1台
-http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",爱尔达体育1台
-mitv://generationnexxxt.com:19806/ab5627232c1f4a6ab8919dbf8c54e137
-#EXTINF:-1 group-title="体育+4K频道,#genre#",愛爾達體育1台
-mitv://generationnexxxt.com:19806/d4ec910053af411d98f3c8a1b7440b51
-#EXTINF:-1 group-title="体育+4K频道,#genre#",爱达体育1台
-rtmp://119.81.124.89/sat/md031.flv
-#EXTINF:-1 group-title="体育+4K频道,#genre#",ELEVEN体育1
-rtmp://119.81.124.89/sat/tv731
-#EXTINF:-1 group-title="体育+4K频道,#genre#",ELEVEN體育1台
-mitv://generationnexxxt.com:19806/ab886fac93d2426e9eaac5410975622d
-#EXTINF:-1 group-title="体育+4K频道,#genre#",广东体育
-http://113.117.74.17:808/hls/1/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",广东体育
-http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",五星体育
 https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 group-title="体育+4K频道,#genre#",五星体育
-http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",劲爆体育
-http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",劲爆体育
 https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1 group-title="体育+4K频道,#genre#",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",咪咕体育-4K-HLG源
-http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",广东综艺4K
-http://119.140.58.85:9901/hls/44/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",欢笑剧场4KHLG小果源
-http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1 group-title="体育+4K频道,#genre#",欢笑剧场4k百视通源
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV4K-25P-HLG源
 http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV-4K25P-SDR-百事通源
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV4K-50P-HLG小果源
-http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV16-4K25P-SDR-百视通源
-http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV16-4K-25PHLG源
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
-#EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV16-4K-50P-HLG小果源
-http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1 group-title="体育+4K频道,#genre#",五星体育4k
-http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",五星体育4k
-http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",广东体育
-http://113.117.74.17:808/hls/1/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV5-高清
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV5-高清
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="体育+4K频道,#genre#",Fashion4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",纯享4K
-http://111.20.105.192:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 #EXTINF:-1 group-title="体育+4K频道,#genre#",欢笑剧场4K
 http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",连续剧4K
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",李子柒4K
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",广东体育
-http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",五星体育
-http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",动漫秀场
 http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",极品汽车
-http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",欢笑剧场
 http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",游戏风云
@@ -1883,132 +1829,20 @@ http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",幸福彩
-http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",劲爆体育
-http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",法治天地
 http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",金色频道
 http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",七彩戏剧
-http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",东方财经
-http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",靓妆
 http://39.135.138.58:18890/PLTV/88888910/224/3221225509/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="体育+4K频道,#genre#",黑莓电影
-http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV超级电视剧
-http://39.135.7.4:6610/000000001000/1000000004000024993/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024993&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV超级电影
-http://39.135.7.4:6610/000000001000/1000000004000002120/index.m3u8?channel-id=ystenlive&Contentid=1000000004000002120&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV超级体育
-http://39.135.7.4:6610/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV超级综艺
-http://39.135.7.4:6610/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV动作电影
-http://39.135.7.4:6610/000000001000/1000000004000018653/index.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV家庭剧场
-http://39.135.7.4:6610/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV金牌综艺
-http://39.135.7.4:6610/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV惊悚悬疑
-http://39.135.7.4:6610/000000001000/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV精品大剧
-http://39.135.7.4:6610/000000001000/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV精品纪录
-http://39.135.7.4:6610/000000001000/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV精品体育
-http://39.135.7.4:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV魅力潇湘
-http://39.135.7.4:6610/000000001000/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV明星大片
-http://39.135.7.4:6610/000000001000/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=3
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV炫舞未来
-http://39.135.7.4:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
+
 #EXTINF:-1 group-title="体育+4K频道,#genre#",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",北京IPTV-4K
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",BesTV-4K
-http://74.119.193.113:8280/live/bestv4k/hls.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",河南4K
-http://74.119.193.113:8280/live/hn4k/hls.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",4K超高清电影
-http://159.75.85.63:5681/sxg.php
-#EXTINF:-1 group-title="体育+4K频道,#genre#",斗鱼4K
-http://epg.112114.xyz/douyu/9249162
-#EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV-4K
-http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV4K 25M2160
-http://59.49.41.39/live.aishang.ctlcdn.com/00000110240505_1/playlist.m3u8?CONTENTID=00000110240505_1
-#EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV16 8M1080
-http://59.49.41.39/live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV16 22M2160
-http://59.49.41.39/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1
-#EXTINF:-1 group-title="体育+4K频道,#genre#",咪咕体育-4K-HLG源-1
-http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",咪咕体育-4K-HLG源-2
-http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Astro Super Sport 4K
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348094&extension=ts&play_token=FzoklzfqN1
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Astro Super Sport 4K-1
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=348094&extension=ts&play_token=kgKJ5bkM20
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Astro Super Sport 4K-2
-http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Astro Super Sport 4K-3
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Now Sports UHD HK
-http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Now Sports UHD HK-1
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Now Sports UHD HK-2
-http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Now Sports UHD HK-3
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/332715
-#EXTINF:-1 group-title="体育+4K频道,#genre#",V Sports UHD
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
-#EXTINF:-1 group-title="体育+4K频道,#genre#",V Sports UHD备
-http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
-#EXTINF:-1 group-title="体育+4K频道,#genre#",BeIN Sports 4K
-http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Evenement UHD
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/496756
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Ziggo Sport 4K
-http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
-#EXTINF:-1 group-title="体育+4K频道,#genre#",RTL UHD
-http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/29821.ts
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Hub Premier Sport 4K
-http://tvt3.xyz:2095/play/live.php?mac=00:1A:79:00:04:02&stream=348096&extension=ts&play_token=zpHQS3jtnW
-#EXTINF:-1 group-title="体育+4K频道,#genre#",DAZN F1 UHD 4K
-http://tribaliptv.com:8080/Gustavo/123456/4930
-#EXTINF:-1 group-title="体育+4K频道,#genre#",MOVISTAR LIGA DE CAMPEONES UHD 4K
-http://tribaliptv.com:8080/Gustavo/123456/12401
-#EXTINF:-1 group-title="体育+4K频道,#genre#",ODISEA UHD 4K
-http://tribaliptv.com:8080/Gustavo/123456/5195
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Sport5 4k
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=59033&extension=ts&play_token=h3Jb2BBUAL
-#EXTINF:-1 group-title="体育+4K频道,#genre#",TRT 4k
-http://1x.avrupatv.xyz:8080/Murat3434/Ilker34/38904
-#EXTINF:-1 group-title="体育+4K频道,#genre#",TRT 4k备
-http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",DIGI 4k
-http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:c0:0f:95&stream=90814&extension=ts&play_token=AB1RNoAhBm
-#EXTINF:-1 group-title="体育+4K频道,#genre#",VTC13 4K
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Insight UHD
-http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=24cce35b06aecc51433333
-#EXTINF:-1 group-title="体育+4K频道,#genre#",TRAVELXP TV 4K
-http://cdnx1.plusx.tv:8880/Travelxp/mono.m3u8?token=24cce35b06aecc51433333
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NASA 4k 60P
-http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
-#EXTINF:-1 group-title="体育+4K频道,#genre#",MYZEN TV 4K
-http://cdnx1.plusx.tv:8880/myZen/mono.m3u8?token=24cce35b06aecc51433333
-#EXTINF:-1 group-title="体育+4K频道,#genre#",ULTRA NATURE TV 4K
-http://185.236.229.31:9981/play/a01d
+
 #EXTINF:-1 group-title="体育+4K频道,#genre#",Clarity4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",爱自然
@@ -2017,38 +1851,11 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",BBC UHD
-http://sheriffwoody.in:80/Jeff1/Jeff1/3157685
-#EXTINF:-1 group-title="体育+4K频道,#genre#",YOSSO TV 4K
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/16153/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",минимакс-flip UHD
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/13057/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",SKY HIGH VHS UHD
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17058/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",SKY HIGH UHD HDR
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17059/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",SKY HIGH DANCE UHD
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14250/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",SKY HIGH DOC UHD
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17053/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",SKY HIGH NATURE 4K HDR
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/14248/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Liberty KINOENG  UHD
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/17060/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Liberty MARVEL 4K
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15090/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Liberty Кино Микс 4K
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/15110/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",Liberty Мульт 4K
-http://3efb37ea.ucomist.net/iptv/2ZDKWT2XKGZEEA/18051/index.m3u8
+
 #EXTINF:-1 group-title="体育+4K频道,#genre#",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",4K影视2
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",MUZZIK ZZ4000 4K
-http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",斗鱼4K
-http://epg.112114.xyz/douyu/9249162
 #EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV5
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV5
@@ -2059,56 +1866,22 @@ http://112.25.48.69/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="体育+4K频道,#genre#",魅力足球
 http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",极速汽车体育
-http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
 http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
 http://39.135.138.60:18890/PLTV/88888888/224/3221225622/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
 http://39.135.138.60:18890/PLTV/88888888/224/3221225648/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://39.135.138.60:18890/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
 http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8?
 #EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
 http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://39.134.115.163:8080/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://39.135.138.58:18890/PLTV/88888888/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://39.134.116.30:8080/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://39.135.138.58:18890/PLTV/88888910/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://39.135.138.58:18890/PLTV/88888910/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://39.135.138.58:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",超级体育
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",精品体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225709/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",精品体育
 http://39.135.138.58:18890/PLTV/88888888/224/3221225709/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",咪咕体育
 http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV超级体育
-http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV超级体育
-http://39.134.115.163:8080/PLTV/88888910/224/3221225767/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV超级体育
-http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",NewTV超级体育
-http://39.135.138.59:18890/PLTV/88888910/224/3221225767/index.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",ELEVEN體育2台
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",智林體育
@@ -2772,7 +2545,7 @@ http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",澳门莲花
-http://anren.live/HK/BiIOU11uLA.m3u8
+http://107.151.203.111:2209/135/hk.php?id=amlh
 #EXTINF:-1 group-title="港澳台综合,#genre#",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",耀才财经
@@ -2850,19 +2623,25 @@ https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台
-http://27.36.62.161:8060/live/1350_4500.m3u8?t=b9fe6157aedccb24&u=freeuser&p=1&pid=&cid=1332&d=b9fe6157aedccb24&sid=wlB5nR3Tj1djxQw5D+PlIg==&r=20230313150710&e=20230313210715&nc=AJrfyvXa35xr&a=7&v=2
+http://nas.jdshipin.com:8801/gdfc.php?id=1350_4500
 #EXTINF:-1 group-title="港澳台综合,#genre#",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 group-title="港澳台综合,#genre#",翡翠财经台
 http://43.128.40.42:2212/tvb.php?id=3&hq
 #EXTINF:-1 group-title="港澳台综合,#genre#",明珠台
-http://27.36.62.161:8060/live/1351_4500.m3u8?t=b9fe6157aedccb24&u=freeuser&p=1&pid=&cid=1332&d=b9fe6157aedccb24&sid=Z/LsnZ19NjY1psEl9gzseQ==&r=20230313160738&e=20230313220743&nc=yIRlckQlnMNC&a=7&v=2
+https://live.astradamy.com/tvbpearl/index.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",1明珠台
+http://moking2010.x10.mx/gd1.php?id=mzt
 #EXTINF:-1 group-title="港澳台综合,#genre#",华丽台
-http://2022.stream-link.org/playlist/astro_jade.tsZS
+http://2022.stream-link.org/playlist/astro_jade.ts
+#EXTINF:-1 group-title="港澳台综合,#genre#",华丽台
+http://r.jdshipin.com/thuYX
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVB星河
 http://fyld.eatuo.com:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",台视
 http://23.237.10.66:16344
 #EXTINF:-1 group-title="港澳台综合,#genre#",台视
-http://2023.stream-link.org/playlist/ttv
+http://2023.stream-link.org/playlist/ttv.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",台视
 http://2023.stream-link.org/playlist/ttv
 #EXTINF:-1 group-title="港澳台综合,#genre#",台视
@@ -2876,7 +2655,7 @@ http://107.151.203.111:2209/135/us50.php?id=msk
 #EXTINF:-1 group-title="港澳台综合,#genre#",中视新闻
 http://2023.stream-link.org/playlist/ctv_news
 #EXTINF:-1 group-title="港澳台综合,#genre#",台视新闻
-http://2023.stream-link.org/playlist/ttv_news
+http://2023.stream-link.org/playlist/ttv_news.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",台视新闻
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",台视新闻
@@ -2884,37 +2663,33 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="港澳台综合,#genre#",民视新闻
 http://123.51.230.108:18663/.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",民视新闻
-http://2023.stream-link.org/playlist/ftv_news
+http://2023.stream-link.org/playlist/ftv_news.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",民视新闻
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",华视新闻
-http://2023.stream-link.org/playlist/cts_news
+http://2023.stream-link.org/playlist/cts_news.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",中天新闻
-http://2023.stream-link.org/playlist/cti_news
+http://2023.stream-link.org/playlist/cti_news.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",寰宇新闻台
-http://2023.stream-link.org/playlist/global_tw
+http://2023.stream-link.org/playlist/global_tw.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS HD
-http://2023.stream-link.org/playlist/tvbs
+http://2023.stream-link.org/playlist/tvbs.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS新闻
-http://2023.stream-link.org/playlist/tvbs_news
+http://2023.stream-link.org/playlist/tvbs_news.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS新闻
-http://2023.stream-link.org/playlist/tvbs_news
+http://2023.stream-link.org/playlist/tvbs_news.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",三立LIVE
-http://2023.stream-link.org/playlist/set_news
+http://2023.stream-link.org/playlist/set_news.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",三立LIVE+
-http://2023.stream-link.org/playlist/set_news+
+http://2023.stream-link.org/playlist/set_news+.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",三立財經
-http://2023.stream-link.org/playlist/set_inews
+http://2023.stream-link.org/playlist/set_inews.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",东森LIVE
-http://2023.stream-link.org/playlist/ebc_news
-#EXTINF:-1 group-title="港澳台综合,#genre#",东森LIVE
-http://2023.stream-link.org/playlist/ebc_news
-#EXTINF:-1 group-title="港澳台综合,#genre#",东森LIVE
-http://2023.stream-link.org/playlist/ebc_news
+http://2023.stream-link.org/playlist/ebc_news.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",東森財經
-http://2023.stream-link.org/playlist/ebc_finance
+http://2023.stream-link.org/playlist/ebc_finance.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",東森yoyo
 http://2023.stream-link.org/playlist/ebc_yoyo.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",澳门莲花
@@ -2936,11 +2711,21 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",有线新闻台
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",有線財經資訊台
-http://2022.stream-link.org/playlist/cable_finance
+http://2022.stream-link.org/playlist/cable_finance.ts
 #EXTINF:-1 group-title="港澳台综合,#genre#",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",东森超视
 http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",东森电影
+http://120.84.96.89:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",东森洋片
+http://120.84.96.108:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",龙翔时代
+http://120.84.96.89:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",私人影院
+http://120.84.96.108:808/hls/24/index.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",人间卫视 高清
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",靖天欢乐台
 http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",靖天国际台
