@@ -2676,8 +2676,6 @@ http://2023.stream-link.org/playlist/global_tw.flv
 http://2023.stream-link.org/playlist/tvbs.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS新闻
 http://2023.stream-link.org/playlist/tvbs_news.flv
-#EXTINF:-1 group-title="港澳台综合,#genre#",TVBS新闻
-http://2023.stream-link.org/playlist/tvbs_news.flv
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS亚洲台
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",三立LIVE
