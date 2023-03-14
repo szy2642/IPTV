@@ -2560,8 +2560,6 @@ http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",大立電視
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="港澳台综合,#genre#",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",原住民族
 http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",HBO強檔鉅獻
