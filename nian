@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="爱尚高清,#genre#",CCTV1
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 #EXTINF:-1 group-title="爱尚高清,#genre#",CCTV2
