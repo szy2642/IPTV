@@ -36,9 +36,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.
 #EXTINF:-1 group-title="央卫仅限IPV6,#genre#",CCTV5+
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw511320337_-364940709/ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8?icpid=3&RTS=1668595305&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="央卫仅限IPV6,#genre#",凤凰中文
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="央卫仅限IPV6,#genre#",凤凰资讯
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="央卫仅限IPV6,#genre#",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1 group-title="央卫仅限IPV6,#genre#",东方卫视
@@ -123,12 +123,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw3394080033_642200653/ott
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3423902933_-437655574/ott.mobaibox.com/PLTV/3/224/3221227645/index.m3u8?icpid=3&RTS=1669702024&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="央卫仅限IPV6,#genre#",兵团卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3243943560_322774048/ott.mobaibox.com/PLTV/3/224/3221227654/index.m3u8?icpid=3&RTS=1669701845&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="央卫仅限IPV6,#genre#",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="央卫仅限IPV6,#genre#",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="央卫仅限IPV6,#genre#",凤凰香港
-http://60.221.226.232:808/hls/55/index.m3u8
 #EXTINF:-1 group-title="央卫仅限IPV6,#genre#",CCTV4k
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1658389916&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="央卫仅限IPV6,#genre#",纯享4k
