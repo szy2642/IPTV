@@ -463,7 +463,11 @@ http://1.204.169.243/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CONT
 #EXTINF:-1 group-title="爱尚高清,#genre#",重庆卫视
 http://1.204.169.243/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 group-title="爱尚高清,#genre#",西藏卫视
-https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
+https://tv.vtibet.cn/live/fvu63z5JqH7P3.m3u8
+#EXTINF:-1 group-title="爱尚高清,#genre#",西藏藏语卫视
+https://tv.vtibet.cn/live/M7B3Uyd8XG8H1.m3u8
+#EXTINF:-1 group-title="爱尚高清,#genre#",西藏影视文化
+https://tv.vtibet.cn/live/j7M7zCPnNHQr2.m3u8
 #EXTINF:-1 group-title="爱尚高清,#genre#",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="爱尚高清,#genre#",新疆卫视
