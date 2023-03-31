@@ -1522,6 +1522,8 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",大爱
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",台视新闻
+http://2023.stream-link.org/live/966381653
+#EXTINF:-1 group-title="港澳台综合,#genre#",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="港澳台综合,#genre#",台视新闻
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
@@ -1531,6 +1533,8 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",民视新闻
+http://2023.stream-link.org/live/1637144344
 #EXTINF:-1 group-title="港澳台综合,#genre#",民视新闻
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",民视新闻
@@ -1600,7 +1604,7 @@ http://2023.stream-link.org/live/926790469
 #EXTINF:-1 group-title="港澳台综合,#genre#",华视新闻
 http://2023.stream-link.org/live/215730961
 #EXTINF:-1 group-title="港澳台综合,#genre#",中天新闻
-http://38.60.38.190:2023/dl/1.php?id=24
+http://2023.stream-link.org/live/1552993665
 #EXTINF:-1 group-title="港澳台综合,#genre#",寰宇新闻台
 http://2023.stream-link.org/live/1212532853
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS新闻
@@ -1627,6 +1631,8 @@ http://pull-l3-cny.douyincdn.com/third/stream-5f26752efeee9e0c53cf6b530640ce60.m
 http://107.151.203.111:2209/135/us50.php?id=ztz
 #EXTINF:-1 group-title="港澳台综合,#genre#",中天综合
 http://23.237.10.66:16372
+#EXTINF:-1 group-title="港澳台综合,#genre#",中天亚洲台
+http://2023.stream-link.org/live/1096161090
 #EXTINF:-1 group-title="港澳台综合,#genre#",有线新闻台
 http://107.151.203.111:2209/135/hk.php?id=cable37h
 #EXTINF:-1 group-title="港澳台综合,#genre#",有线新闻台
