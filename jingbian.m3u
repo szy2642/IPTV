@@ -472,6 +472,7 @@ https://tv-web.vtibet.cn/live/M1Mzagti2GjtDPB2.m3u8
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="爱尚高清,#genre#",新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+
 #EXTINF:-1 group-title="百视通8M,#genre#",CCTV1
 https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 group-title="百视通8M,#genre#",CCTV2
