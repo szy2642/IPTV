@@ -1605,6 +1605,8 @@ http://2023.stream-link.org/live/926790469
 #EXTINF:-1 group-title="港澳台综合,#genre#",华视新闻
 http://2023.stream-link.org/live/215730961
 #EXTINF:-1 group-title="港澳台综合,#genre#",中天新闻
+http://103.68.63.37:8278/ctinews/playlist.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",中天新闻
 http://2023.stream-link.org/live/1552993665
 #EXTINF:-1 group-title="港澳台综合,#genre#",寰宇新闻台
 http://2023.stream-link.org/live/1212532853
@@ -1642,6 +1644,8 @@ http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="港澳台综合,#genre#",有线新闻台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻台
+http://flv.mp4cdn.live/gt-key=0025874.php?id=13
 #EXTINF:-1 group-title="港澳台综合,#genre#",无线新闻台
 http://2022.stream-link.org/live/1488149502
 #EXTINF:-1 group-title="港澳台综合,#genre#",东森超视
