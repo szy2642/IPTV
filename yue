@@ -467,13 +467,17 @@ http://60.167.226.213/live.aishang.ctlcdn.com/00000110240134_1/playlist.m3u8?CON
 #EXTINF:-1 group-title="央卫线路一,#genre#",重庆卫视
 http://60.167.226.213/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 #EXTINF:-1 group-title="央卫线路一,#genre#",西藏卫视
-http://lu1.cc/itv/xztv/xzxl.php?id=xzws&fmt=hls
+http://tv.vtibet.cn/live/pCB93tZN3.m3u8
 #EXTINF:-1 group-title="央卫线路一,#genre#",西藏藏语卫视
-http://lu1.cc/itv/xztv/xzxl.php?id=xzzyws&fmt=hls
+http://tv.vtibet.cn/live/mAo3VuKs1.m3u8
 #EXTINF:-1 group-title="央卫线路一,#genre#",西藏影视文化
-http://lu1.cc/itv/xztv/xzxl.php?id=xzyswh&fmt=hls
+http://tv.vtibet.cn/live/RS9f5FFw2.m3u8
 #EXTINF:-1 group-title="央卫线路一,#genre#",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1 group-title="央卫线路一,#genre#",内蒙古卫视
+https://live9.m2oplus.nmtv.cn/00/hd/live.m3u8?sign=1b4314b7eb29b6262fead93430cf14ea&t=1682670195
+#EXTINF:-1 group-title="央卫线路一,#genre#",内蒙古蒙古语
+https://live2.m2oplus.nmtv.cn/01/hd/live.m3u8?sign=af04acc498e9e4a45c88fba82ea6a0f2&t=1682670221
 #EXTINF:-1 group-title="央卫线路一,#genre#",新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 
