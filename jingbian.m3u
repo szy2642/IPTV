@@ -871,14 +871,8 @@ http://epg.112114.xyz/douyu/6763930
 http://epg.112114.xyz/douyu/6537888
 #EXTINF:-1 group-title="影视综合,#genre#",小九电影
 http://epg.112114.xyz/douyu/7136517
-#EXTINF:-1 group-title="影视综合,#genre#",凤凰电影
-http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",纬来体育
-http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",五星体育
-https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 group-title="体育+4K频道,#genre#",劲爆体育
-https://live.v1.mk/api/bestv.php?id=jbtyhd8m/8000000
+
+
 #EXTINF:-1 group-title="体育+4K频道,#genre#",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",苏州4K
@@ -968,8 +962,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225709/index.m3u8
 http://39.137.49.76:8080/PLTV/88888888/224/3221226241/index.m3u8?
 #EXTINF:-1 group-title="体育+4K频道,#genre#",ELEVEN體育2台
 http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-#EXTINF:-1 group-title="体育+4K频道,#genre#",智林體育
-http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 #EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV5-高清
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="体育+4K频道,#genre#",CCTV5-高清
