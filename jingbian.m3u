@@ -2472,12 +2472,8 @@ http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8?zshangd
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",法治天地
 http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",上视新闻
-https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 group-title="上海综合,#genre#",上海都市
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",上海教育
-http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",游戏风云
 http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",极速汽车
