@@ -474,8 +474,6 @@ http://tv.vtibet.cn/live/mAo3VuKs1.m3u8
 http://tv.vtibet.cn/live/RS9f5FFw2.m3u8
 #EXTINF:-1 group-title="央卫线路一,#genre#",青海卫视
 http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1 group-title="央卫线路一,#genre#",内蒙古卫视
-https://live9.m2oplus.nmtv.cn/00/hd/live.m3u8?sign=1b4314b7eb29b6262fead93430cf14ea&t=1682670195
 #EXTINF:-1 group-title="央卫线路一,#genre#",新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 
@@ -1297,8 +1295,6 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 #EXTINF:-1 group-title="上海综合,#genre#",都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
-#EXTINF:-1 group-title="上海综合,#genre#",上视新闻
-https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
 #EXTINF:-1 group-title="上海综合,#genre#",游戏风云
 http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8?zshangd
 #EXTINF:-1 group-title="上海综合,#genre#",生活时尚
