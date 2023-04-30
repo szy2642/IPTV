@@ -476,8 +476,6 @@ http://tv.vtibet.cn/live/RS9f5FFw2.m3u8
 http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="央卫线路一,#genre#",内蒙古卫视
 https://live9.m2oplus.nmtv.cn/00/hd/live.m3u8?sign=1b4314b7eb29b6262fead93430cf14ea&t=1682670195
-#EXTINF:-1 group-title="央卫线路一,#genre#",内蒙古蒙古语
-https://live2.m2oplus.nmtv.cn/01/hd/live.m3u8?sign=af04acc498e9e4a45c88fba82ea6a0f2&t=1682670221
 #EXTINF:-1 group-title="央卫线路一,#genre#",新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 
@@ -1042,12 +1040,12 @@ https://pull-l3-cny.douyincdn.com/live/stream-1121752023042222232.m3u8?by=yesliv
 #EXTINF:-1 group-title="港澳台综合,#genre#",ELEVEN2
 https://pull-l3-cny.douyincdn.com/live/stream-1121752023042222332.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合,#genre#",爱尔达体育1
-https://pull-l3-cny.douyincdn.com/live/stream-1132782023042415316.m3u8?by=yeslivetv_com
+https://pull-l3-cny.douyincdn.com/live/stream-1153982023042815316.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS新闻
 https://pull-l3-cny.douyincdn.com/live/stream-1183172023042701243.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合,#genre#",TVBS HD
 https://pull-l3-cny.douyincdn.com/live/stream-1192872023042701218.m3u8?by=yeslivetv_com
-#EXTINF:-1 group-title="港澳台综合,#genre#",爱尔达体育3
+#EXTINF:-1 group-title="港澳台综合,#genre#",爱尔达体育2
 https://pull-l3-cny.douyincdn.com/live/stream-1121752023011921423.m3u8?by=yeslivetv_com
 #EXTINF:-1 group-title="港澳台综合,#genre#",好莱坞电影
 https://epg.pw/stream/a903333ac6090aba3ab42a5b5173660c8557af31bf6f00be5ba558d2093b0e6b.m3u8
